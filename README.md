@@ -1,4 +1,4 @@
-# Readme-Tpedriz
+# Thiago Pedriz
 <h2 align="left">Opa! 👋 Eu sou o Thiago Pedriz, Técnico em informática, Analista de Sistemas e CEO da empresa SalvadorTech®. <br><br>Tenho 23 anos e sou de Salvador, Bahia. Bem vindo ao meu perfil!</h2>
 
 ###
