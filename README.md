@@ -51,9 +51,7 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Tpedriz/Tpedriz/output/snake.svg" alt="Snake animation" />
+<!-- <img src="https://raw.githubusercontent.com/Tpedriz/Tpedriz/output/snake.svg" alt="Snake animation" /> -->
 
 ###
 
